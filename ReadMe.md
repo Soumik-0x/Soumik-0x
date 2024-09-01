@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Web Development.<br>🤝🏻 I'm looking to collaborate on Frontend and Backend.<br>🔍 I'm looking for help with ML and AI.<br>🌱 I'm currently learning Rust, ML, and AI.<br>💬Ask me about Web Designing.<br>
+🔭 I'm currently working on Web Development.<br>🤝🏻 I'm looking to collaborate on Frontend and Backend.<br>🔍 I'm looking for help with ML and AI.<br>🌱 I'm currently learning Rust, ML, and AI.<br>💬Ask me about Web Development and Designing.<br>
 
 
 ## 🌐 Socials:
